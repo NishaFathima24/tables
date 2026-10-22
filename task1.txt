@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Project</title>
+    <link rel="stylesheet" href="session.css">
+</head>
+<body>
+  
+    <p> This is paragraph</p>
+    <h1> This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6 </h6>
+
+    </body>
+</html>
+
+CSS
+
+p{
+    background-color:blue ;
+    color: cornsilk;
+    border:5px double gold;
+    font-family: arial;
+
+}
+h1{
+    color:brown;
+    background-color: chocolate;
+    text-align: center;
+    font-family: Verdana;
+}
+h2{
+    color:cornsilk;
+    background-color: rgb(133, 255, 255);
+    text-align: center;
+}
+h3{
+    color:blanchedalmond;
+    background-color: rgb(252, 105, 105);
+    text-align:center;
+}
+h4{
+    color:bisque;
+    background-color: rgb(188, 122, 250);
+    text-align: center;
+}
+h5{
+    color: beige;
+    background-color: rgb(89, 217, 221);
+    text-align: center;
+}
+h6{
+    color: aliceblue;
+    background-color: rgb(178, 238, 118);
+    text-align: center;
+}
